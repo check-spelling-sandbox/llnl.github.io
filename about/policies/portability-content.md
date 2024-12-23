@@ -12,7 +12,7 @@
 
 ---
 <a name="rpor2"></a>
-[![Generic badge](https://img.shields.io/badge/R.por-2-yellow.svg)](#rpor2) **Support Apple MacOS (Xcode) and Microsoft Windows (Visual Studio).**
+[![Generic badge](https://img.shields.io/badge/R.por-2-yellow.svg)](#rpor2) **Support Apple macOS (Xcode) and Microsoft Windows (Visual Studio).**
 
 >Rationale
 >: This allows code development on common desktop and laptop machines.

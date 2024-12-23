@@ -110,7 +110,7 @@ badge](https://img.shields.io/badge/R.lic-3-yellow.svg)](/project/policies/licen
 
 [![Generic badge](https://img.shields.io/badge/M.por-1-red.svg)](/project/policies/portability/#mpor1)&emsp;Give best effort at portability to common HPC platforms and compiling toolchains.
 
-[![Generic badge](https://img.shields.io/badge/R.por-2-yellow.svg)](/project/policies/portability/#rpor2)&emsp;Support Apple MacOS (Xcode) and Microsoft Windows (Visual Studio).
+[![Generic badge](https://img.shields.io/badge/R.por-2-yellow.svg)](/project/policies/portability/#rpor2)&emsp;Support Apple macOS (Xcode) and Microsoft Windows (Visual Studio).
 
 ---
 
