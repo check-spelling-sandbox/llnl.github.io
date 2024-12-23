@@ -1,5 +1,5 @@
 rule 'MD011'
-# Reversed link syntax.. will catch if parantheses and brackets are reversed in a link
+# Reversed link syntax.. will catch if parentheses and brackets are reversed in a link
 
 rule 'MD034'
 #Bare url used... will catch links that are not properly rendered
