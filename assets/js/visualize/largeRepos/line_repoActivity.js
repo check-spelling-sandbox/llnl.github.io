@@ -254,7 +254,7 @@ function draw_line_repoActivity(areaID, repoNameWOwner) {
             }
         });
 
-        // Formats data to allow for timestap look up of value data
+        // Formats data to allow for timestep look up of value data
         var repoData = {};
         repos.forEach(function(repo) {
             for (var entry of obj['data'][repo]) {
