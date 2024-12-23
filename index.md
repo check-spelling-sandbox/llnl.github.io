@@ -170,7 +170,7 @@ breadcrumb: Home
                                 <hr class="bg-quantum-slate border-2" />
                                 <div class="d-flex justify-content-around my-3 links">
                                     <a ng-if="repository.url && repository.url.indexOf('github.com') > -1" class="text-decoration-none text-black text-black-hover" href="{{ repository.url }}">
-                                        <i class="fa fa-light fa-github fw-semibold text-software-blue me-1"></i> Github</a>
+                                        <i class="fa fa-light fa-github fw-semibold text-software-blue me-1"></i> GitHub</a>
                                     <a ng-if="repository.url && repository.url.indexOf('gitlab.') > -1" class="text-decoration-none text-black text-black-hover" href="{{ repository.url }}">
                                         <i class="fa fa-light fa-gitlab fw-semibold text-software-blue me-1"></i> Gitlab</a>
                                     <a ng-if="repository.homepageUrl" class="text-decoration-none text-black text-black-hover" href="{{ repository.homepageUrl }}">
