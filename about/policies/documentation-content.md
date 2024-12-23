@@ -67,6 +67,6 @@
 >: Successful open source projects will attract bug fixes and feature development from the external community, preferably via pull requests on GitHub associated with a particular issue in the tracker. Teams should have a policy documenting expectations for when a pull request may be accepted, rejected, or returned for modifications.
 >
 >Rationale
->: Developers providing fixes will be discouraged from future contributions if they feel they are being ignored. Similarly, they are probably using a branched version of your software to workaround the fix they provided, which leads to additional inefficiencies.
+>: Developers providing fixes will be discouraged from future contributions if they feel they are being ignored. Similarly, they are probably using a branched version of your software to work around the fix they provided, which leads to additional inefficiencies.
 
 ---
